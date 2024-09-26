@@ -1,5 +1,3 @@
-# David Fraser's Github Projects
-
 This is an index of some of my GitHub repositories, and pages related to them (mostly so you can see them in progress where that's applicable)
 
 ## Tolkien-related
