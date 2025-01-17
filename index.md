@@ -11,6 +11,7 @@ This is an index of some of my GitHub repositories, and pages related to them (m
 ## Other
 
 * [Fox Assault](https://github.com/davidfraser/rinkhals/) - an old PyGame entry that I've hacked on with younger folk as a way of introducing them to programming
+* [Harmonihue](harmonihue/) - an exploration of musical notes and visible hues and how to relate them to each other ([source repo](https://github.com/davidfraser/harmonihue/))
 
 ## Who made these?
 
