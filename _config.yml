@@ -1,3 +1,5 @@
-remote_theme: pages-themes/primer@v0.2.0
+title: David Fraser's GitHub Projects
+description: This is an index of some of my GitHub repositories, and pages related to them (mostly so you can see them in progress where that’s applicable)
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

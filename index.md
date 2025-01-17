@@ -1,10 +1,8 @@
-# David Fraser's Github Projects
-
 This is an index of some of my GitHub repositories, and pages related to them (mostly so you can see them in progress where that's applicable)
 
 ## Tolkien-related
 
-* [cirth-chart-generator](https://github.com/davidfraser/cirth-chart-generator) is a project to create a visually oriented chart of Cirth characters. This is intended to help when learning the character set, as it's quicker to find a character when you're trying to read.
+* [cirth-chart-generator](cirth-chart-generator/) ([src](https://github.com/davidfraser/cirth-chart-generator)) is a project to create a visually oriented chart of Cirth characters. This is intended to help when learning the character set, as it's quicker to find a character when you're trying to read.
 * [middle-earth-vector-map](https://github.com/davidfraser/middle-earth-vector-map) is a SVG map of Middle Earth that tries to combine the information from all the official published maps, whilst retaining a similar style to Tolkien's (based on work of Christopher Taylor and others)
 * [disting](https://github.com/davidfraser/disting) is a work-in-progress dialogue extractor
 

@@ -41,7 +41,7 @@ build-iPhoneSimulator/
 /rdoc/
 
 ## Environment normalization:
-/.bundle/
+# /.bundle/  # ignored so bundle.config can be committed
 /vendor/bundle
 /lib/bundler/man/
 
