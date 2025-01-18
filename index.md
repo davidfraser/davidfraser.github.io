@@ -15,7 +15,7 @@ This is an index of some of my GitHub repositories, and pages related to them (m
 
 Some more about me:
 
-* [Inconceivable R and D](https://www.inconceivable.co.za/), my company
-* [My LinkedIn profile](https://www.linkedin.com/in/davidfrasergo/)
-* [frasergo.org](https://frasergo.org/), an old personal/family website
-* Follow me on [Twitter/X](https://x.com/davidfrasergo), [Bluesky](https://bsky.app/profile/davidfrasergo.bsky.social)
+* [Inconceivable R and D](https://www.inconceivable.co.za/), my company.
+* [My LinkedIn profile](https://www.linkedin.com/in/davidfrasergo/).
+* [frasergo.org](https://frasergo.org/), my personal website with blogs and longer form writing on various topics.
+* Follow me on [Bluesky](https://bsky.app/profile/davidfrasergo.bsky.social) or see my old posts on [Twitter/X](https://x.com/davidfrasergo).
