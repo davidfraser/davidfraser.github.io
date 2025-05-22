@@ -14,7 +14,7 @@ This is an index of some of my GitHub repositories, and pages related to them (m
 ## Previous Projects
 
 * The [Translate Toolkit](https://toolkit.translatehouse.org/) ([src](https://github.com/translate/translate), [Wikipedia](https://en.wikipedia.org/wiki/Translate_Toolkit)) is a project I started for working with localization files, that is going strong many years after I left it.
-* [Pootle](https://pootle.translatehouse.org/) ([src](https://github.com/translate/pootle), [Wikipedia](https://en.wikipedia.org/wiki/Pootlet)) is an online translation management tool with a translation interface. I started this while working part time for translate.org.za, and others carried on the development until about 2017. It's still used for translating [Apache OpenOffice](http://translate.apache.org/projects/) as of 2025, but [Weblate](https://weblate.org/en/) seems like a popular successor.
+* [Pootle](https://pootle.translatehouse.org/) ([src](https://github.com/translate/pootle), [Wikipedia](https://en.wikipedia.org/wiki/Pootle)) is an online translation management tool with a translation interface. I started this while working part time for translate.org.za, and others carried on the development until about 2017. It's still used for translating [Apache OpenOffice](http://translate.apache.org/projects/) as of 2025, but [Weblate](https://weblate.org/en/) seems like a popular successor.
 
 ## Who made these?
 
