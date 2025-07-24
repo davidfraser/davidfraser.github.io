@@ -42,7 +42,7 @@ GEM
     faraday-net_http (3.3.0)
       net-http
     ffi (1.17.0-x86_64-linux-gnu)
-    fiddle (1.1.2)
+    fiddle (1.1.8)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (232)
